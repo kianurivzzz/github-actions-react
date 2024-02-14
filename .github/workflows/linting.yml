@@ -1,0 +1,6 @@
+# name: Run linting on React App
+# on: push
+# jobs:
+#     lint:
+#         runs: ubuntu-latest
+#         steps:
